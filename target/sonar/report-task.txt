@@ -1,0 +1,6 @@
+projectKey=com.testgoogle:SeleniumLatestUPdation
+serverUrl=http://localhost:9000
+serverVersion=7.6.0.21501
+dashboardUrl=http://localhost:9000/dashboard?id=com.testgoogle%3ASeleniumLatestUPdation
+ceTaskId=AWiqKxgH3GorH3iw4zMH
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWiqKxgH3GorH3iw4zMH
